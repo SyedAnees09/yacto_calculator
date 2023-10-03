@@ -1,3 +1,4 @@
+#include<stdio.h>
 void add(void)
 {
 	int n1,n2;
