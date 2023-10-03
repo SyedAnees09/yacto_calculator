@@ -1,3 +1,4 @@
+#include<stdio.h>
 void div(void)
 {
         float n1,n2;
