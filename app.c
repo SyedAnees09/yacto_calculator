@@ -11,7 +11,7 @@ int main()
 	printf("3.program for product\n");
 	printf("4.program for division\n");
 	printf("5.program for modulus\n");
-	printf("6.To exit \n")
+	printf("6.To exit \n");
 	printf("Select the program option to be executed from 1-6\n");
 	scanf("%d",&cs);
 	switch(cs)
