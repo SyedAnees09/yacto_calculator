@@ -1,14 +1,14 @@
 #include<stdio.h>
 void mod(void)
 {
-        float n1,n2;
+        int n1,n2;
         printf("Enter the first number:\n");
-        scanf("%f",&n1);
+        scanf("%d",&n1);
 
         printf("Enter the Second number:\n");
-        scanf("%f",&n2);
+        scanf("%d",&n2);
 
-        printf("Modulus of %.2f and %f is %.2f",n1,n2,n1%n2);
+        printf("Modulus of %d and %d is %d",n1,n2,n1%n2);
 
 }
 
