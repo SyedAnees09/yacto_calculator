@@ -1,3 +1,4 @@
+#include<stdio.h>
 void mul(void)
 {
         int n1,n2;
